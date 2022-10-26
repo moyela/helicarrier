@@ -13,8 +13,9 @@ It becomes:
 ## x√41 + y√41 = 7√41
 ## So, x + y = 7
 
-The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4).
-/ We have four possibe equations for the solution:
+The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4)
+
+We have four possibe equations for the solution:
 
 * x√41 + y√41  = 0√41 + 7√41 = 7√41
 * x√41 + y√41  = 1√41 + 6√41 = 7√41
@@ -22,12 +23,12 @@ The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and
 * x√41 + y√41  = 3√41 + 4√41 = 7√41
 
 If I simplify the equation, 
-### √a + √b  = √0 + √2009 = √2009
-### √a + √b  = √41 + √1476 = √2009
-### √a + √b  = √164 + √1025 = √2009
-### √a + √b  = √369 + √656 = √2009
+##### √a + √b  = √0 + √2009 = √2009
+##### √a + √b  = √41 + √1476 = √2009
+##### √a + √b  = √164 + √1025 = √2009
+##### √a + √b  = √369 + √656 = √2009
 
-So we have four solutions for a and b: 
+> So we have four solutions for a and b: 
 ### (a = 0, b = 2009)
 ### (a = 41, b = 1476)
 ### (a = 164, b = 1025)
