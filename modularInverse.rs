@@ -1,7 +1,7 @@
-//finding the modular multiplicative inverse of a given number and modulus pair
+//finding the modular multiplicative inverse of a given number when the modulus is 1
 
 //adding this std::io moudule lets the program use inbuilt Rust input/output functions
-//this module allows us to accept our number and modulus from the user as inputs
+//this is necessary to accept a number and a modulus from the user as an input
 use std::io;
 
 
@@ -27,7 +27,7 @@ fn main()
             Ok(_) => println!("your number is: {}, now enter your modulus", input_number);
 
             //if not successful, match returns Err below
-            Err(e) => println!("oh! something went wrong. please restart");
+            Err(e) => println!("oh! something went wrong. please try again :( ");
  
         }
 
@@ -115,8 +115,8 @@ fn modular_inverse(a, m)
             return x;
         }
 
-        //if everything has worked exactly as it's supposed to up to this point, we print the modular multiplicative inverse as given below
+        //once the calculations are complete, the print function below gives the modular multiplicative inverse
         println!("{} is the modular multiplicative inverse of a number: {} with modulus: {}", x, input_number, input_modulus); 
 
     }
-//ces't fin.
+//ces't fin. The end.
