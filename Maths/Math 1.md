@@ -6,15 +6,15 @@ If we factorize √2009, the equation becomes:
 ## √a + √b = 7√41
 
 If we change the values of √a and √b:
-### √a = x√41 
-### √b = y√41
+#### √a = x√41 
+#### √b = y√41
 
 It becomes:
 ## x√41 + y√41 = 7√41
+## So, x + y = 7
 
-So x + y = 7
 The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4).
-I have four possibe equations for the solution:
+/ We have four possibe equations for the solution:
 
 * x√41 + y√41  = 0√41 + 7√41 = 7√41
 * x√41 + y√41  = 1√41 + 6√41 = 7√41
