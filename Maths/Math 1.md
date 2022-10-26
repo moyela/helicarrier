@@ -6,8 +6,8 @@ If we factorize √2009, the equation becomes:
 ## √a + √b = 7√41
 
 If we change the values of √a and √b:
-√a = x√41 
-√b = y√41
+### √a = x√41 
+### √b = y√41
 
 It becomes:
 ## x√41 + y√41 = 7√41
