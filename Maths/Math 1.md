@@ -2,10 +2,10 @@
 
 ## √a + √b = √2009
 
-If we factorize √2009, the equation becomes:
+> If we factorize √2009, the equation becomes:
 ## √a + √b = 7√41
 
-If we change the values of √a and √b:
+> If we change the values of √a and √b to:
 #### √a = x√41 
 #### √b = y√41
 
@@ -22,13 +22,14 @@ We have four possibe equations for the solution:
 * x√41 + y√41  = 2√41 + 5√41 = 7√41
 * x√41 + y√41  = 3√41 + 4√41 = 7√41
 
-If I simplify the equation, 
+> If I simplify the equation, 
 ##### √a + √b  = √0 + √2009 = √2009
 ##### √a + √b  = √41 + √1476 = √2009
 ##### √a + √b  = √164 + √1025 = √2009
 ##### √a + √b  = √369 + √656 = √2009
 
-> So we have four solutions for a and b: 
+There are four solutions for a and b: 
+
 ### (a = 0, b = 2009)
 ### (a = 41, b = 1476)
 ### (a = 164, b = 1025)
