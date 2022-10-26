@@ -27,4 +27,8 @@ If I simplify the equation,
 ## √a + √b  = √164 + √1025 = √2009
 ## √a + √b  = √369 + √656 = √2009
 
-So a and b have four solutions: (0, 2009), (41, 1476), (164, 1025), and (368, 656)
+So a and b have four solutions: 
+*(0, 2009)
+*(41, 1476)
+*(164, 1025)
+*(368, 656)
