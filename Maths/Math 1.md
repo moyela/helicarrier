@@ -6,8 +6,8 @@
 ## √a + √b = 7√41
 
 > If we change the values of √a and √b based on 7√41:
-## √a = x√41
-## √b = y√41
+### √a = x√41
+### √b = y√41
 
 > The equation becomes:
 ## x√41 + y√41 = 7√41
