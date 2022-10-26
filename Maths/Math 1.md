@@ -1,8 +1,8 @@
 # Find all positive integer pairs: a and b, such that: √a + √b = √2009
 
-### √a + √b = √2009
+## √a + √b = √2009
 
-if I factorize √2009, the equation becomes:
+If we factorize √2009, the equation becomes:
 ### √a + √b = 7√41
 
 If we change the values of √a and √b:
