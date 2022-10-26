@@ -1,4 +1,4 @@
-##Find all positive integer pairs: a and b, such that: √a + √b = √2009
+## Find all positive integer pairs: a and b, such that: √a + √b = √2009
 
 √a + √b = √2009
 
