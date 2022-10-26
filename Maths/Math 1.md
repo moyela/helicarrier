@@ -11,7 +11,7 @@ If we change the values of √a and √b:
 
 The equation becomes:
 ## x√41 + y√41 = 7√41
-## So, x + y = 7
+## Therefore, x + y = 7
 
 The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4)
 
