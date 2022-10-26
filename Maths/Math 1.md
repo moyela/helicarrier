@@ -28,8 +28,7 @@
 #### √a + √b  = √164 + √1025 = √2009
 #### √a + √b  = √369 + √656 = √2009
 
-### There are four solutions for a and b: 
-
+> There are four solutions for a and b: 
 ## (a = 0, b = 2009)
 ## (a = 41, b = 1476)
 ## (a = 164, b = 1025)
