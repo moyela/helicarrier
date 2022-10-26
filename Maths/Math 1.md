@@ -5,13 +5,12 @@
 > If we factorize √2009, the equation becomes:
 ## √a + √b = 7√41
 
-> If we change the values of √a and √b to:
-#### √a = x√41 
-#### √b = y√41
+> If we change the values of √a and √b based on 7√41:
+#### √a = x√41 and √b = y√41
 
 > The equation becomes:
 ## x√41 + y√41 = 7√41
-## Therefore, x + y = 7
+## Therefore, we can say that x + y = 7
 
 > The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4)
 
