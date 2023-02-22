@@ -13,7 +13,7 @@
 ## x√41 + y√41 = 7√41
 ## Therefore, we can say that x + y = 7
 
-> The positive integer pairs that equal 7 are (0 and 7), (1 and 6), (2 and 5), and (3 and 4)
+> The positive integer pairs that equal 7 are (0, 7), (1, 6), (2, 5), and (3, 4)
 
 > We have four possibe equations for the solution:
 
